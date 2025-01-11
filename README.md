@@ -1,1 +1,1 @@
-# -CAPS-LOCK-ile-Yaz-mak-Yasakt-r
+# -CAPS-LOCK-ile-Yaz-mak-Yasaktır
